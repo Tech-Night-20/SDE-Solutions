@@ -1,4 +1,4 @@
-    void sortArray(vector<int>& nums) {
+    void sortingArray(vector<int>& nums) {
         int low = 0;
         int mid = 0;
         int high = nums.size() - 1;
